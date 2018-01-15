@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 20px;
     padding: 0;
     border: 0;
     line-height: 1.4em;
@@ -20,6 +20,7 @@ text-decoration: none;
 	list-style: none;
     width: 2000px;
     margin: 0;
+    padding-left: 0;
 }
 #carousel li {
     float: left;
